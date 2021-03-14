@@ -1,0 +1,52 @@
+{
+    "Sunrisers Hyderabad":11652,
+    "Royal Challengers Bangalore":23436,
+    "Mumbai Indians":24521,
+    "Rising Pune Supergiant":2470,
+    "Gujarat Lions":4862,
+    "Kolkata Knight Riders":21965,
+    "Kings XI Punjab":23068,
+    "Delhi Daredevils":21953,
+    "Chennai Super Kings":20899,
+    "Rajasthan Royals":17703,
+    "Deccan Chargers":11463,
+    "Kochi Tuskers Kerala":1901,
+    "Pune Warriors":6358
+}
+
+{
+    "V Kohli":4588,
+    "CH Gayle":3389,
+    "AB de Villiers":2933,
+    "JH Kallis":1214,
+    "R Dravid":924,
+    "TM Dilshan":646
+}
+
+{
+    "  Sri Lanka":2,
+    "  South Africa":5,
+    "  Australia":7,
+    "  Pakistan":2,
+    "  New Zealand":4,
+    " West Indies":1,
+    "  England":4,
+    "  Zimbabwe":1
+}
+
+{
+    "Sunrisers Hyderabad":[0,0,0,0,0,17,14,14,17,14],
+    "Royal Challengers Bangalore":[14,16,16,16,15,16,14,16,16,13],
+    "Mumbai Indians":[14,13,16,16,17,19,15,16,14,17],
+    "Rising Pune Supergiant":[0,0,0,0,0,0,0,0,0,16],
+    "Gujarat Lions":[0,0,0,0,0,0,0,0,16,14],
+    "Kolkata Knight Riders":[13,13,14,15,17,16,16,13,15,16],
+    "Kings XI Punjab":[15,14,14,14,16,16,17,14,14,14],
+    "Delhi Daredevils":[14,15,14,14,18,16,14,14,14,14],
+    "Chennai Super Kings":[16,14,16,16,18,18,16,17,0,0],
+    "Rajasthan Royals":[16,13,14,13,16,18,14,14,0,0],
+    "Deccan Chargers":[14,16,16,14,15,0,0,0,0,0],
+    "Kochi Tuskers Kerala":[0,0,0,14,0,0,0,0,0,0],
+    "Pune Warriors":[0,0,0,14,16,16,0,0,0,0],
+    "Rising Pune Supergiants":[0,0,0,0,0,0,0,0,14,0]
+}

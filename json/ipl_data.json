@@ -1,5 +1,5 @@
 {
-    "teams":{
+    "teams": {
         "Sunrisers Hyderabad":11652,
         "Royal Challengers Bangalore":23436,
         "Mumbai Indians":24521,
@@ -13,18 +13,18 @@
         "Deccan Chargers":11463,
         "Kochi Tuskers Kerala":1901,
         "Pune Warriors":6358
-    }
+    },
 
-   "rcb":{
+   "rcb": {
         "V Kohli":4588,
         "CH Gayle":3389,
         "AB de Villiers":2933,
         "JH Kallis":1214,
         "R Dravid":924,
         "TM Dilshan":646
-    }
+    },
 
-    "umpires":{
+    "umpires": {
         "  Sri Lanka":2,
         "  South Africa":5,
         "  Australia":7,
@@ -33,9 +33,9 @@
         " West Indies":1,
         "  England":4,
         "  Zimbabwe":1
-    }
+    },
 
-    "tot_season":{
+    "tot_season": {
         "Sunrisers Hyderabad":[0,0,0,0,0,17,14,14,17,14],
         "Royal Challengers Bangalore":[14,16,16,16,15,16,14,16,16,13],
         "Mumbai Indians":[14,13,16,16,17,19,15,16,14,17],
